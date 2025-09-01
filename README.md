@@ -1,21 +1,6 @@
 ﻿# safe-connect
 
- lost-and-found-children-reporting/
-├── frontend/             # React frontend 
-│   ├── public/           # Static files
-│   └── src/              # React source code
-│       ├── assets/       # Images, fonts, etc.
-│       ├── components/   # Reusable components
-│       ├── contexts/     # React contexts
-│       ├── pages/        # Page components
-│       ├── services/     # API and other services
-│       └── utils/        # Utility functions
-├── backend/              # Express backend
-│   ├── config/           # Configuration files
-│   ├── controllers/      # Route controllers
-│   ├── middleware/       # Express middleware
-│   ├── models/           # Database models
-│   └── routes/           # API routes
-├── .env                  # Environment variables for both frontend and backend
-└── ...
+
+
+
 
